@@ -2,6 +2,8 @@
 
 Projeto do curso de HTML WebDeveloper da DigitalInovationOne.
 
+Recriando a página inicial do Instagram
+
 DESCRIÇÃO
 
 Página de login do Instagram (responsivo): 
